@@ -1,0 +1,21 @@
+{
+	"name": "donate",
+	"version": "1.0.0",
+	"top": [{
+		"name": "DogeCloud",
+		"link": "https://www.dogecloud.com",
+		"logo": "https://i.loli.net/2020/02/23/x2izpHdCywGP5cl.png"
+	}],
+	"common": [
+	{
+		"from": "爱发电",
+		"name": "大龟（@afd_d9xh）",
+		"link": ""
+	},
+	{
+		"from": "爱发电",
+		"name": "@afd_wvxR",
+		"link": ""
+	}
+	]
+}

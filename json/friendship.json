@@ -1,0 +1,60 @@
+{
+	"name": "friendship",
+	"version": "1.0.0",
+	"records": [
+		{
+			"name": "今日诗词",
+			"link": "https://www.jinrishici.com/",
+			"icon": "https://piccdn.freejishu.com/images/2020/02/24/Pn5Tdc.png",
+			"desc": "古诗词名句综合接口"
+		},
+		{
+			"name": "MyPCQQ",
+			"link": "https://www.mypcqq.cc",
+			"icon": "https://piccdn.freejishu.com/images/2020/02/24/Pn58NT.png",
+			"desc": "稳定 · 智能 · 简约 · 高效 的机器人"
+		},
+		{
+			"name": "freejishu",
+			"link": "https://www.freejishu.com",
+			"icon": "https://cdn.v2ex.com/gravatar/998a4820101c5491c986a7faf10457c8?s=500&d=mm&r=g",
+			"desc": "Code · Thinking · ACG"
+		},
+		{
+			"name": "藤の青",
+			"link": "https://i.a632079.me",
+			"icon": "https://cdn.v2ex.com/gravatar/eccf8110b225c1ee784ba603e11213b5?s=500&d=mm",
+			"desc": "萌新/伪前端/高中党/弱气后端"
+		},
+		{
+			"name": "荣耀助手",
+			"link": "https://pvp.91m.top",
+			"icon": "https://q.qlogo.cn/headimg_dl?dst_uin=947065098&spec=100",
+			"desc": "实时 · 简单 · 快捷"
+		},
+		{
+			"name": "犬の窝",
+			"link": "https://moedog.org",
+			"icon": "https://cdn.v2ex.com/gravatar/5e6892e999ca8c85a358d21164167f38?s=500",
+			"desc": "I'm very vegetable and very poor."
+		},
+		{
+			"name": "Jad",
+			"link": "https://imjad.cn/",
+			"icon": "https://cdn.v2ex.com/gravatar/1f1b82f7ab1429a50424ac18dce65e37?s=500",
+			"desc": "浊以静之徐清，安以动之徐生。"
+		},
+		{
+			"name": "手柄君的小阁",
+			"link": "https://www.bysb.net/",
+			"icon": "https://cdn.v2ex.com/gravatar/166afae0dc7ed1e227486ebb7e3bcbce?s=500&d=retro&r=R",
+			"desc": "OSU玩家，DIY大佬，红警赛高！"
+		},
+		{
+			"name": "MikuBlog",
+			"link": "https://mikublog.com/",
+			"icon": "https://cdn.v2ex.com/gravatar/8af24f75543a28b039f69278cb51491e?s=500",
+			"desc": "分享整个世界"
+		}
+	]
+}
