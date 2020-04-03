@@ -7,6 +7,18 @@
 简单来说，一言指的就是一句话，可以是动漫中的台词，也可以是网络上的各种小段子。
 或是感动，或是开心，有或是单纯的回忆。来到这里，留下你所喜欢的那一句句话，与大家分享，这就是一言存在的目的。
 
+**免责声明：团队成员并没有在酷安上开发相关 App，此前由第三方开发者与我们合作进行开发。目前此开发者不再维护 App。由于我们没有 App 的相关底层源码、开发者账户的权限，因此不能保证使用此 App 是否安全。如您继续使用此 App，我们（萌创团队）将不为您账户可能遭受的安全风险承担责任。**
+
+## 你们有没有什么相关地址？
+* 开发者中心：https://developer.hitokoto.cn
+* 开放源码仓库：https://github.com/hitokoto-osc
+  * 交换友链：https://github.com/hitokoto-osc/resources/issues/1
+* 反馈与建议：https://support.qq.com/products/120638
+* 以前的一些仓库：
+  * https://github.com/freejishu/hitokoto_tell/issues
+  * C# 桌面部件：https://github.com/kuertianshi/Hitokoto_Desktop
+  * 一言接口的底层：https://github.com/a632079/teng-koa （由于账户被封停，目前无法维护此仓库）
+
 ## 怎么联系你们呢？
 * 邮箱： <i@loli.online>
 * QQ 群组
@@ -45,7 +57,6 @@
 ### 资金援助
 
 目前支持 2 个直接赞助渠道：
-
 * [芝麻收款](https://piccdn.freejishu.com/images/2019/07/21/PnYhyB.jpg)
 * [爱发电](https://afdian.net/@hitokoto)
 
