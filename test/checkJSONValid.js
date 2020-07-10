@@ -1,7 +1,7 @@
 // This is a Node.js script to check whether the json files of JSON dir are valid
 
 // import modules
-const fs = requrie('fs')
+const fs = require('fs')
 const path = require('path')
 
 const rootDir = path.join(__dirname, '../')
