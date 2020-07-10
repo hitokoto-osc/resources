@@ -55,6 +55,12 @@
 			"link": "https://mikublog.com/",
 			"hash": "8af24f75543a28b039f69278cb51491e",
 			"desc": "分享整个世界"
+		},
+		{
+			"name": "Ada-Home",
+			"link": "https://www.adaxh.site/",
+			"icon": "https://tvax1.sinaimg.cn/crop.0.0.640.640.180/a99a6e98ly8ggdx2amqlaj20hs0hswsl.jpg",
+			"desc": "卑微小前端，不太像后端"
 		}
 	]
 }
