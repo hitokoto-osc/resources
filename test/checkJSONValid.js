@@ -61,6 +61,7 @@ if (errors.length > 0) {
     console.error(e[0])
     console.error(e[1])
   })
+  process.exit(1)
 } else {
   console.log('test successfully.')
 }
