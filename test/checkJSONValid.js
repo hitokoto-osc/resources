@@ -18,7 +18,7 @@ function readDir (dir) {
     const stat = fs.statSync(filePath)
     if (stat.isDirectory()) {
       const subDirFiles = readDir(filePath)
-      if (subDirFiles.length > 0) {
+      if (subDirFiles && subDirFiles.length > 0) {
         map.concat(subDirFiles)
       }
     } else {
