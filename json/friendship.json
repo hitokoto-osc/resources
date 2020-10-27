@@ -85,6 +85,12 @@
 			"link": "https://www.nosuchfield.com/",
 			"icon": "https://www.nosuchfield.com/favicon.png",
 			"desc": "Where there's a shell, there's a way."
+		},
+		{
+			"name": "⑨BIE",
+			"link": "https://9bie.org",
+			"icon": "https://9bie.org/BIE.jpg",
+			"desc": "Strange Place Of The Pseudo Geeks."
 		}
 	]
 }
