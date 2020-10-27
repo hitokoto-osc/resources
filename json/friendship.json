@@ -79,6 +79,12 @@
 			"link": "https://qq52o.me/",
 			"hash": "53093cc242ff08b27984e84c9db92c33",
 			"desc": "一个PHPer的成长之路"
+		},
+		{
+			"name": "御坂研究所",
+			"link": "https://www.nosuchfield.com/",
+			"icon": "https://www.nosuchfield.com/favicon.png",
+			"desc": "Where there's a shell, there's a way."
 		}
 	]
 }
