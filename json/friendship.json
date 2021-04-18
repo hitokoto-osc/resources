@@ -97,6 +97,12 @@
 			"link": "https://www.itxcjm.top",
 			"icon": "https://i1.hdslb.com/bfs/face/5e1b169f7e51aa269f69ae07c20a090e9884922f.jpg@150w_150h.jpg",
 			"desc": "一个人 一座城 一生梦"
+		},
+		{
+			"name": "Yurikoto",
+			"link": "https://yurikoto.com",
+			"icon": "https://cdn.jsdelivr.net/gh/yurikoto/yurikoto-resources@master/avatar/yurikoto_logo.png",
+			"desc": "二次元百合主题台词壁纸API"
 		}
 	]
 }
