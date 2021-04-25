@@ -103,6 +103,12 @@
 			"link": "https://yurikoto.com",
 			"icon": "https://cdn.jsdelivr.net/gh/yurikoto/yurikoto-resources@master/avatar/yurikoto_logo.png",
 			"desc": "二次元百合主题台词壁纸API"
+		},
+		{
+			"name": "Mirai",
+			"link": "https://mirai.mamoe.net/",
+			"icon": "https://cdn.jsdelivr.net/gh/mamoe/mirai@latest/docs/mirai.png",
+			"desc": "高效率 QQ 机器人支持库"
 		}
 	]
 }
