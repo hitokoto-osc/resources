@@ -103,6 +103,12 @@
 			"link": "https://mirai.mamoe.net/",
 			"icon": "https://cdn.jsdelivr.net/gh/mamoe/mirai@latest/docs/mirai.png",
 			"desc": "高效率 QQ 机器人支持库"
+		},
+		{
+			"name": "优纪酱的下午茶",
+			"link": "http://rbq.youki.work",
+			"icon": "https://cdn-p.freejishu.com/img/2021/09/01/FbY.jpg",
+			"desc": "一位热爱技术的咸鱼少女"
 		}
 	]
 }
