@@ -24,6 +24,8 @@
 * QQ 群组
   * 聊天灌水：70029304
   * 开发交流： 33542648
+    * 由于不明原因，腾讯已采取主动干预的手段将本群排除了搜索队列，如需加入可尝试下方的加群链接。如失效请到工单系统反馈。
+    * 点击加群：https://jq.qq.com/?_wv=1027&k=kOfPs0Jj
   * 审核员： 734129102
 * Telegram 群组：https://t.me/hitokoto
 * Telegram 频道：https://t.me/hitokoto_channel
