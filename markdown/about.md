@@ -21,6 +21,8 @@
 
 ## 怎么联系你们呢？
 * 邮箱： <i@loli.online>
+* QQ 频道【推荐】
+  * 加入链接：https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1YQRIH&from=246610&biz=ka
 * QQ 群组
   * 聊天灌水：70029304
   * 开发交流： 33542648
