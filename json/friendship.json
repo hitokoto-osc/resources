@@ -133,6 +133,11 @@
 			"link": "https://xiaoshu.app/",
 			"icon": "https://xiaoshu.app/icon.png",
 			"desc": "我们曾经费尽心思折腾我们的主页，却从来没好好整理过我们的收藏夹。"
-		}
+		},
+		{
+			"name": "异想之旅",
+			"link": "https://www.yixiangzhilv.com/",
+			"icon": "https://www.yixiangzhilv.com/img/logo.png",
+			"desc": "一位热爱编程 骑行 听歌的高中生"			
 	]
 }
