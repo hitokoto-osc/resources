@@ -62,7 +62,7 @@
 ### 资金援助
 
 目前支持 2 个直接赞助渠道：
-* [芝麻收款](https://piccdn.freejishu.com/images/2019/07/21/PnYhyB.jpg)
+* [芝麻收款](https://cdn-p.freejishu.com/img/2022/03/22/g6o1.png)
 * [爱发电](https://afdian.net/@hitokoto)
 
 如果你的单次金额大于 30 元， 或爱发电每月赞助大于 15 元， 你的名字将会出现在赞助榜单上。
