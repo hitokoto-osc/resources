@@ -21,9 +21,14 @@
 
 ## 怎么联系你们呢？
 * 邮箱： <i@loli.online>
+* QQ 频道【推荐】
+  * 加入链接：https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1YQRIH&from=246610&biz=ka
+  * 加入频道可获取有关一言的最新资讯和动态。
 * QQ 群组
   * 聊天灌水：70029304
-  * 开发交流： 33542648
+  * 开发交流：33542648
+    * 由于不明原因，腾讯已采取主动干预的手段将本群排除了搜索队列，如需加入可尝试下方的加群链接。如失效请到工单系统反馈。
+    * 点击加群：https://jq.qq.com/?_wv=1027&k=kOfPs0Jj
   * 审核员： 734129102
 * Telegram 群组：https://t.me/hitokoto
 * Telegram 频道：https://t.me/hitokoto_channel
@@ -57,7 +62,7 @@
 ### 资金援助
 
 目前支持 2 个直接赞助渠道：
-* [芝麻收款](https://piccdn.freejishu.com/images/2019/07/21/PnYhyB.jpg)
+* [芝麻收款](https://cdn-p.freejishu.com/img/2022/03/22/g6o1.png)
 * [爱发电](https://afdian.net/@hitokoto)
 
 如果你的单次金额大于 30 元， 或爱发电每月赞助大于 15 元， 你的名字将会出现在赞助榜单上。

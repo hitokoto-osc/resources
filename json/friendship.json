@@ -5,14 +5,8 @@
 		{
 			"name": "今日诗词",
 			"link": "https://www.jinrishici.com/",
-			"icon": "https://piccdn.freejishu.com/images/2020/02/24/Pn5Tdc.png",
+			"icon": "https://cdn-p.freejishu.com/img/2021/08/16/logo.png",
 			"desc": "古诗词名句综合接口"
-		},
-		{
-			"name": "MyPCQQ",
-			"link": "https://www.mypcqq.cc",
-			"icon": "https://piccdn.freejishu.com/images/2020/02/24/Pn58NT.png",
-			"desc": "稳定 · 智能 · 简约 · 高效 的机器人"
 		},
 		{
 			"name": "freejishu",
@@ -24,7 +18,7 @@
 			"name": "藤の青",
 			"link": "https://i.a632079.me",
 			"hash": "eccf8110b225c1ee784ba603e11213b5",
-			"desc": "萌新/伪前端/高中党/弱气后端"
+			"desc": "亲眼所见，亦非真实。"
 		},
 		{
 			"name": "荣耀助手",
@@ -61,6 +55,84 @@
 			"link": "https://adaxh.site/",
 			"icon": "https://tvax1.sinaimg.cn/crop.0.0.640.640.180/a99a6e98ly8ggdx2amqlaj20hs0hswsl.jpg",
 			"desc": "卑微小前端，不太像后端"
+		},
+		{
+			"name": "狐狸菌の秘密基地",
+			"link": "https://www.smartfox.cc/",
+			"hash": "38c1b1c1012f5d920e5d1b4dbf1f063f",
+			"desc": "可能是个兽耳萝莉控？"
+		},
+		{
+			"name": "Alex",
+			"link": "https://eof.ink",
+			"icon": "https://eof.ink/images/logo512.png",
+			"desc": "永远相信世界属于开发者"
+		},
+		{
+			"name": "沈唁志",
+			"link": "https://qq52o.me/",
+			"hash": "53093cc242ff08b27984e84c9db92c33",
+			"desc": "一个PHPer的成长之路"
+		},
+		{
+			"name": "御坂研究所",
+			"link": "https://www.nosuchfield.com/",
+			"icon": "https://www.nosuchfield.com/favicon.png",
+			"desc": "Where there's a shell, there's a way."
+		},
+		{
+			"name": "⑨BIE",
+			"link": "https://9bie.org",
+			"icon": "https://9bie.org/BIE.jpg",
+			"desc": "Strange Place Of The Pseudo Geeks."
+		},
+		{
+			"name": "新城旧梦",
+			"link": "https://www.itxcjm.top",
+			"icon": "https://cdn-p.freejishu.com/img/2021/08/16/6J6.jpg",
+			"desc": "一个人 一座城 一生梦"
+		},
+		{
+			"name": "Yurikoto",
+			"link": "https://yurikoto.com",
+			"icon": "https://cdn.jsdelivr.net/gh/yurikoto/yurikoto-resources@master/avatar/yurikoto_logo.png",
+			"desc": "二次元百合主题台词壁纸API"
+		},
+		{
+			"name": "Mirai",
+			"link": "https://mirai.mamoe.net/",
+			"icon": "https://cdn.jsdelivr.net/gh/mamoe/mirai@latest/docs/mirai.png",
+			"desc": "高效率 QQ 机器人支持库"
+		},
+		{
+			"name": "优纪酱的下午茶",
+			"link": "http://rbq.youki.work",
+			"icon": "https://cdn-p.freejishu.com/img/2021/09/01/FbY.jpg",
+			"desc": "一位热爱技术的咸鱼少女"
+		},
+		{
+			"name": "七夏浅笑",
+			"link": "https://www.julydate.com/",
+			"icon": "https://cdn-p.freejishu.com/img/2021/09/13/ZIo.jpg",
+			"desc": "永远的 17 岁！热爱互联网，感兴趣的事情什么都会一点点"
+		},
+		{
+			"name": "小满の窝",
+			"link": "https://www.yhdzz.cn/",
+			"icon": "https://s-bj-1934-cdn-yhdzz-blog.oss.dogecdn.com/xiaoman1221s-blog-bead.jpg",
+			"desc": "天上如是，地下亦然"
+		},
+		{
+			"name": "折影轻梦",
+			"link": "https://nexmoe.com/",
+			"icon": "https://avatar.mixcm.com/github/nexmoe",
+			"desc": "纯粹、热爱、勇敢"
+		},
+		{
+			"name": "小舒同学",
+			"link": "https://xiaoshu.app/",
+			"icon": "https://xiaoshu.app/icon.png",
+			"desc": "我们曾经费尽心思折腾我们的主页，却从来没好好整理过我们的收藏夹。"
 		}
 	]
 }
