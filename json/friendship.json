@@ -139,6 +139,12 @@
 			"link": "https://www.yixiangzhilv.com/",
 			"icon": "https://www.yixiangzhilv.com/img/logo.png",
 			"desc": "一位热爱编程 骑行 听歌的高中生"
+		},
+		{
+		    "name": "Hat's Blog",
+		    "link": "https://hatblog.me/",
+		    "icon": "https://hatblog.me/favicon.jpg",
+		    "desc": "Just be happy."  
 		}
 	]
 }
