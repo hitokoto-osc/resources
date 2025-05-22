@@ -151,6 +151,12 @@
 			"link": "https://www.acgxt.com/",
 			"icon": "https://static.acgxt.com/images/favicon.png",
 			"desc": "幻音の小窝"
+		},
+		{
+			"name": "ZLA 小站",
+			"link": "https://zla.pub/",
+			"hash": "de403bb7bb2abb235c02dffd7ce5419a",
+			"desc": "月亮不抱你，星星会落在你怀里✨🌙"
 		}
 	]
 }
