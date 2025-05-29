@@ -151,6 +151,12 @@
 			"link": "https://www.acgxt.com/",
 			"icon": "https://static.acgxt.com/images/favicon.png",
 			"desc": "幻音の小窝"
+		},
+		{
+			"name": "ZMTU",
+			"link": "https://zmtu.com",
+			"icon": "https://zmtu.com/static/images/app/App_Logo.png",
+			"desc": "ACG二次元社区，我们的征途是星辰大海！"
 		}
 	]
 }
