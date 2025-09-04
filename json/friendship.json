@@ -157,6 +157,12 @@
 			"link": "https://zla.pub/",
 			"hash": "de403bb7bb2abb235c02dffd7ce5419a",
 			"desc": "月亮不抱你，星星会落在你怀里✨🌙"
+    },
+    {
+			"name": "ZMTU",
+			"link": "https://zmtu.com",
+			"icon": "https://zmtu.com/static/images/app/App_Logo.png",
+			"desc": "ACG二次元社区，我们的征途是星辰大海！"
 		}
 	]
 }
