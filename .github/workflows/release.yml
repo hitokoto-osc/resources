@@ -17,7 +17,7 @@ jobs:
         id: get_tag
         run: |
           # 获取最新 tag，没有的话默认 v1.0.0
-          latest_tag=$(git describe --tags `git rev-list --tags --max-count=1` || echo "v1.0.0")
+          latest_tag=$(git describe --tags `git rev-list --tags --max-count=1` || echo "v1.1.0")
           echo "Latest tag: $latest_tag"
           
           # 取最后一段数字 +1
