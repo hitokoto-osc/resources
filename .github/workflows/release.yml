@@ -1,27 +1,50 @@
 on:
   push:
-    # Sequence of patterns matched against refs/tags
-    tags:
-      - 'v*' # Push events to matching v*, i.e. v1.0, v20.15.10
+    branches:
+      - master   # 当 master 分支有更新时触发
 
 name: Create Release
 
 jobs:
   build:
-    name: Create Release
+    name: Auto Tag & Create Release
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+
+      - name: Get latest tag
+        id: get_tag
+        run: |
+          # 获取最新 tag，没有的话默认 v1.0.0
+          latest_tag=$(git describe --tags `git rev-list --tags --max-count=1` || echo "v1.0.0")
+          echo "Latest tag: $latest_tag"
+          
+          # 取最后一段数字 +1
+          base_tag=${latest_tag%.*}
+          patch=${latest_tag##*.}
+          new_tag="$base_tag.$((patch+1))"
+          
+          echo "New tag: $new_tag"
+          echo "new_tag=$new_tag" >> $GITHUB_ENV
+
+      - name: Create new tag
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git tag ${{ env.new_tag }}
+          git push origin ${{ env.new_tag }}
+
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
+          tag_name: ${{ env.new_tag }}
+          release_name: Release ${{ env.new_tag }}
           body: |
-            This version is released by Github Action. Detail see at changelog.md
+            This version is released automatically from master branch.
+            See changelog.md for details.
           draft: false
           prerelease: false
