@@ -136,9 +136,9 @@
 		},
 		{
 			"name": "异想之旅",
-			"link": "https://www.yixiangzhilv.com/",
-			"icon": "https://www.yixiangzhilv.com/logo.png",
-			"desc": "一位热爱编程 骑行 听歌的高中生"
+			"link": "https://blog.yxzl.dev/",
+			"icon": "https://blog.yxzl.dev/head.png",
+			"desc": "异想之旅のBlog"
 		},
 		{
 			"name": "九月's Blog",
@@ -160,3 +160,4 @@
 		}
 	]
 }
+
