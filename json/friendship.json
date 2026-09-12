@@ -157,6 +157,12 @@
 			"link": "https://zmtu.com",
 			"icon": "https://zmtu.com/static/images/app/App_Logo.png",
 			"desc": "ACG二次元社区，我们的征途是星辰大海！"
+		},
+		{
+			"name": "饭饭's Blog",
+			"link": "https://ffis.me",
+			"icon": "https://img.ffis.me/images/2019/12/21/1.6min.png",
+			"desc": "不忘初心，方得始终"
 		}
 	]
 }
