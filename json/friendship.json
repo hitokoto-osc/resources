@@ -64,9 +64,9 @@
 		},
 		{
 			"name": "Alex",
-			"link": "https://eof.ink",
-			"icon": "https://eof.ink/images/logo512.png",
-			"desc": "永远相信世界属于开发者"
+			"link": "https://stdout.com.cn",
+			"icon": "https://stdout.com.cn/logo.png",
+			"desc": "What's past is prologue."
 		},
 		{
 			"name": "沈唁志",
@@ -119,20 +119,44 @@
 		{
 			"name": "小满の窝",
 			"link": "https://www.yhdzz.cn/",
-			"icon": "https://s-bj-1934-cdn-yhdzz-blog.oss.dogecdn.com/xiaoman1221s-blog-bead.jpg",
+			"hash": "572534b91b876def2f0f37533b6be15a",
 			"desc": "天上如是，地下亦然"
 		},
 		{
 			"name": "折影轻梦",
 			"link": "https://nexmoe.com/",
-			"icon": "https://avatar.mixcm.com/github/nexmoe",
+			"icon": "https://cravatar.cn/avatar/c7fd185f8c967dec20c29c75a40b9e09?s=400",
 			"desc": "纯粹、热爱、勇敢"
 		},
 		{
 			"name": "小舒同学",
-			"link": "https://xiaoshu.app/",
-			"icon": "https://xiaoshu.app/icon.png",
+			"link": "https://xiaoshuapp.com/",
+			"icon": "https://xiaoshuapp.com/icon.svg",
 			"desc": "我们曾经费尽心思折腾我们的主页，却从来没好好整理过我们的收藏夹。"
+		},
+		{
+			"name": "异想之旅",
+			"link": "https://www.yixiangzhilv.com/",
+			"icon": "https://www.yixiangzhilv.com/logo.png",
+			"desc": "一位热爱编程 骑行 听歌的高中生"
+		},
+		{
+			"name": "九月's Blog",
+			"link": "https://www.qqiwu.cn/",
+			"icon": "https://qq.qqiwu.cn/tx/index.php?imgurl=663778586",
+			"desc": "时间不语,却回答了所有问题."
+		},
+		{
+			"name": "七空幻音",
+			"link": "https://www.acgxt.com/",
+			"icon": "https://static.acgxt.com/images/favicon.png",
+			"desc": "幻音の小窝"
+		},
+		{
+			"name": "ZMTU",
+			"link": "https://zmtu.com",
+			"icon": "https://zmtu.com/static/images/app/App_Logo.png",
+			"desc": "ACG二次元社区，我们的征途是星辰大海！"
 		}
 	]
 }
